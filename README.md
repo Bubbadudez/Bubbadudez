@@ -1,5 +1,6 @@
 ### Hi 👋, I'm Bubbadudez
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+![image](https://user-images.githubusercontent.com/87544049/158069972-35f647c2-7227-4dfc-8067-4beff6afbe90.png)
 
 I Am An Inspiring Creator, A full Time Gamer, Graphic Designer, Coder, And Always Helping!
 
