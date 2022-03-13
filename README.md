@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Bubbadudez
 
-![image](https://user-images.githubusercontent.com/87544049/158069972-35f647c2-7227-4dfc-8067-4beff6afbe90.png)
+![image](Logo.gif)
 
 I Am An Inspiring Creator, A full Time Gamer, Graphic Designer, Coder, And Always Helping!
 
