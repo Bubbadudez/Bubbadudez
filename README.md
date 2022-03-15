@@ -1,22 +1,50 @@
-### Hi 👋, I'm Bubbadudez
+<a href="#"><img width="100%" height="auto" src="Logo.gif" height="175px"/></a>
 
-![image](Logo.gif)
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bubbadudez</h1>
+<p align="center"> 
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Bubbadudez">
+</a>
+<a href="https://github.com/Bubbadudez?tab=followers"><img src="https://img.shields.io/github/followers/Bubbadudez?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
+<h3 align="center">I Am Inspiring Creator And A full Time Gamer, Graphic Designer, Coder And Always Helping!</h3>
 
-I Am An Inspiring Creator, A full Time Gamer, Graphic Designer, Coder, And Always Helping!
+## 🙋‍♂️ About Me
 
-Skills - PYTHON / BATCH / JS / HTML
+- 🔭 I’m Currently Working On **[Rocket Cleaner](https://github.com/Bubbadudez/Rocket-Cleaner)**
 
-- 🔭 I’m Currently Working On Rocket Cleaner 
-- 🌱 I’m Currently Learning C# 
-- 💬 Ask Me About Coding And Gaming 
-- 📫 How To Reach Me - https://discord.gg/DWNjnTdAt3 
+- 🌱 I’m Currently earning **C# And C++**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bubbadudez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Bubbadudez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC7l-NZOqWCZUcdZewSU1Y7Q)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/DWNjnTdAt3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg' alt='twitch' height='40'>](https://www.twitch.tv/Bubbadudez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/user/bubbadudez)  
+- 👯 I’m Looking To Collaborate On **OpenSource Projects**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bubbadudez&show_icons=true)  
+- 👨‍💻 All Of My Projects Are Available At **[My Discord](https://discord.gg/JSCJqXTH)**
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bubbadudez)  
+- 📫 How To Reach Me **[Discord](https://discord.gg/JSCJqXTH)**
 
-![GitHub metrics](https://metrics.lecoq.io/Bubbadudez)  
+- ⚡ Fun Fact **I Love Coding More Than Gaming**
 
-![Profile views](https://gpvc.arturio.dev/Bubbadudez)  
+## 🚀 Languages And Tools
+
+<p align="center"> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+</p>
+
+<p align="center">
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img title="🔥 Get Streak Stats For Your Profile At git.io/streak-stats" alt="Bubbadudez's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Bubbadudez&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+<p align="center">
+  <br/>
+    <a href="https://github.com/Bubbadudez/github-readme-activity-graph"><img alt="Bubbadudez's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Bubbadudez&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+    <a href="https://github.com/Bubbadudez/github-readme-stats"><img alt="Bubbadudez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bubbadudez&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <a href="https://github.com/Bubbadudez/github-readme-stats"><img alt="Bubbadudez's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bubbadudez&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+</p>
