@@ -7,7 +7,7 @@
 </a>
 <a href="https://github.com/Bubbadudez?tab=followers"><img src="https://img.shields.io/github/followers/Bubbadudez?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
-<h3 align="center">I Am Inspiring Creator And A full Time Gamer, Graphic Designer, Coder And Always Helping!</h3>
+<h3 align="center">I Am An Inspiring Creator A Full-Time Gamer, Graphic Designer, Coder, And Always Helping!</h3>
 
 ## 🙋‍♂️ About Me
 
@@ -34,7 +34,7 @@
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get Streak Stats For Your Profile At git.io/streak-stats" alt="Bubbadudez's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Bubbadudez&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+             <a href="https://github.com/Bubbadudez/github-readme-stats"><img alt="Bubbadudez's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bubbadudez&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </a>
 </p>
 
@@ -42,9 +42,10 @@
 
 <p align="center">
   <br/>
-    <a href="https://github.com/Bubbadudez/github-readme-activity-graph"><img alt="Bubbadudez's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Bubbadudez&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-    <a href="https://github.com/Bubbadudez/github-readme-stats"><img alt="Bubbadudez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bubbadudez&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+        <a href="https://github.com/Bubbadudez/github-readme-stats"><img alt="Bubbadudez's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bubbadudez&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <a href="https://github.com/Bubbadudez/github-readme-stats"><img alt="Bubbadudez's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bubbadudez&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img title="🔥 Get Streak Stats For Your Profile At git.io/streak-stats" alt="Bubbadudez's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Bubbadudez&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/Bubbadudez/github-readme-activity-graph"><img alt="Bubbadudez's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Bubbadudez&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
   <br/>
 </p>
