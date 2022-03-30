@@ -17,7 +17,7 @@
 
 - 👯 I’m Looking To Collaborate On **OpenSource Projects**
 
-- 👨‍💻 All Of My Projects Are Available At **[My Discord](https://discord.gg/JSCJqXTH)**
+- 👨‍💻 All Of My Projects Are Available On **[My Discord](https://discord.gg/JSCJqXTH)**
 
 - 📫 How To Reach Me **[Discord](https://discord.gg/JSCJqXTH)**
 
