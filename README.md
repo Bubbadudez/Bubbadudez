@@ -13,7 +13,7 @@
 
 - 🔭 I’m Currently Working On **[Rocket Cleaner](https://github.com/Bubbadudez/Rocket-Cleaner)**
 
-- 🌱 I’m Currently earning **C# And C++**
+- 🌱 I’m Currently Learning **C# & C++**
 
 - 👯 I’m Looking To Collaborate On **OpenSource Projects**
 
