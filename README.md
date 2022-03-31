@@ -11,17 +11,17 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m Currently Working On **[Rocket Cleaner](https://github.com/Bubbadudez/Rocket-Cleaner)**
+- 🔭 I’m Currently Working On - **[Rocket Cleaner](https://github.com/Bubbadudez/Rocket-Cleaner)**
 
-- 🌱 I’m Currently Learning **C# & C++**
+- 🌱 I’m Currently Learning - **C# & C++**
 
-- 👯 I’m Looking To Collaborate On **OpenSource Projects**
+- 👯 I’m Looking To Collaborate On - **OpenSource Projects**
 
-- 👨‍💻 All Of My Projects Are Available On **[My Discord](https://discord.gg/JSCJqXTH)**
+- 👨‍💻 All Of My Projects Are Available On - **[My Discord](https://discord.gg/JSCJqXTH)**
 
-- 📫 How To Reach Me **[Discord](https://discord.gg/JSCJqXTH)**
+- 📫 How To Reach Me - **[Discord](https://discord.gg/JSCJqXTH)**
 
-- ⚡ Fun Fact **I Love Coding More Than Gaming**
+- ⚡ Fun Fact - **I Love Coding More Than Gaming**
 
 ## 🚀 Languages
 
