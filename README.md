@@ -23,7 +23,7 @@
 
 - ⚡ Fun Fact **I Love Coding More Than Gaming**
 
-## 🚀 Languages And Tools
+## 🚀 Languages
 
 <p align="center"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -34,7 +34,7 @@
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-             <a href="https://github.com/Bubbadudez/github-readme-stats"><img alt="Bubbadudez's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bubbadudez&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+             <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats"><img alt="Bubbadudez's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bubbadudez&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </a>
 </p>
 
