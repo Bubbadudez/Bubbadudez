@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="Logo.gif" height="175px"/></a>
 
-<h1 align="center">Hi, I'm Bubbadudez</h1>
+<h1 align="center">Hi 👋, I'm Bubbadudez</h1>
 <p align="center"> 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Bubbadudez">
