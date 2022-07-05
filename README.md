@@ -26,10 +26,12 @@
 ## 🚀 Languages
 
 <p align="center"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"/> </a> 
+    <a href="https://nodejs.org/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"/> </a> 
+    <a href="https://dev.java/learn/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"/> </a> 
+    <a href="https://www.w3schools.com/html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"/> </a> 
+    <a href="https://www.w3schools.com/css" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"/> </a> 
+    <a href="https://www.gnu.org/help/help.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"/> </a>
 </p>
 
 <p align="center">
