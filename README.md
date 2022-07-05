@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="Logo.gif" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bubbadudez</h1>
+<h1 align="center">Hi, I'm Bubbadudez</h1>
 <p align="center"> 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Bubbadudez">
@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bubbadudez&layout=compact"/>
 </p>
 
 ## 📊 My Github Stats
